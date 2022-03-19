@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_earth"
+        android:icon="@drawable/ic_earth"
+        android:title="@string/title_eath" />
+
+    <item
+        android:id="@+id/navigation_moon"
+        android:icon="@drawable/ic_moon"
+        android:title="@string/title_moon" />
+
+    <item
+        android:id="@+id/navigation_mars"
+        android:icon="@drawable/ic_mars"
+        android:title="@string/title_mars" />
+
+    <item
+        android:id="@+id/navigation_space"
+        android:icon="@drawable/ic_system"
+        android:title="@string/title_space" />
+</menu>
